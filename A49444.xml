@@ -1,0 +1,379 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before His Majesty at Whitehal, April 5, 1663 by ... B. Lord Bishop of Lincoln, Elect.</title>
+            <author>Laney, Benjamin, 1591-1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49444</idno>
+            <idno type="STC">Wing L346</idno>
+            <idno type="STC">ESTC R6273</idno>
+            <idno type="EEBO-CITATION">13088661</idno>
+            <idno type="OCLC">ocm 13088661</idno>
+            <idno type="VID">97329</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49444)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97329)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 744:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before His Majesty at Whitehal, April 5, 1663 by ... B. Lord Bishop of Lincoln, Elect.</title>
+                  <author>Laney, Benjamin, 1591-1675.</author>
+               </titleStmt>
+               <extent>36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Timothy Garthwait,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Errata: p. 36.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Hebrews XIII, 15 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97329:1" rendition="simple:additions"/>
+            <p>A SERMON Preached before HIS MAJESTY at <hi>Whitehal, April</hi> 5. 1663.</p>
+            <p>By the Right Reverend Father in God <hi>B.</hi> Lord Biſhop of <hi>Lincoln,</hi> Elect.</p>
+            <p>
+               <hi>Publiſhed by His Majeſties Special Command.</hi>
+            </p>
+            <figure>
+               <figDesc>blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>Timothy Garthwait,</hi> 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:97329:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:97329:2"/>
+            <epigraph>
+               <bibl>
+                  <hi>Heb. xiii. Verſ. xv.</hi>
+               </bibl>
+               <q>By Him therefore let us offer the Sacrifice of Praiſe to God continually; that is, the Fruit of <hi>our</hi> Lips, giving thanks to His Name; <hi>or,</hi> Confeſsing to His Name, <hi>as the Margin reads more agreeable to the Greek.</hi>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>E have an <hi>Altar</hi> in the Tenth Verſe, and in this we have a <hi>Sacrifice:</hi> But what Altar, and what Sacrifice? for they are ſcandalous words. For the Altar, let that fall, if the Sa<g ref="char:EOLhyphen"/>crifice cannot ſupport it: But for the Sacri<g ref="char:EOLhyphen"/>fice, whereof we are now to treat, it is, I con<g ref="char:EOLhyphen"/>feſs, a word of offence, becauſe there goes under the name of a Chriſtian Sacrifice, that which our Church calls a <hi>blaſphemous fable,</hi>
+               <note place="margin">Art. 31.</note> and <hi>dangerous deceit.</hi> Should I leave you without
+<pb n="4" facs="tcp:97329:3"/>any Caution upon that fear and danger in Sacrificing, it would be to little purpoſe to offer at the commending of any: For we are too often troubled more with words, than what they ſignifie. And therefore as the <hi>Ora<g ref="char:EOLhyphen"/>tor</hi> adviſeth, when ſuch a caſe ſhall happen <hi>Mitigandas eſſe prius aures;</hi> ſomewhat muſt be ſaid beforehand to remove a prejudice that will fall upon all that ſhall be ſaid after. That which the <hi>Article</hi> ſpeaks of is the Sacrifice of the Maſs, wherein the Prieſts of that Sa<g ref="char:EOLhyphen"/>crifice ſay, <hi>That Chriſt himſelf is really ſacrificed for the quick and dead:</hi> And for want of this, our Church is not by them allowed to have either Prieſt or Sacrifice.</p>
+            <p>'Tis true, we pretend not to that Myſtical Art and Chymiſtry, to turn the Elements of Bread and Wine into the Natural Body and Blood of <hi>Chriſt,</hi> by which alone they make themſelves Prieſts, and <hi>Him</hi> the Sacrifice. I put in no <hi>claim</hi> therefore from this Text, either to that Prieſt, or this Sacrifice, but yet to a right in both, but both of another kinde: For the Sacrifice, the Text is clear, and the Prieſt follows of courſe; there can be no Sa<g ref="char:EOLhyphen"/>crifice without him. And it is as clear too, That it is not the Sacrifice of the Maſs, though
+<pb n="5" facs="tcp:97329:3"/>
+               <hi>Chriſt himſelf</hi> be in it; for 'tis <hi>he</hi> whom we firſt meet with in the Text, <hi>By him.</hi>] Here in<g ref="char:EOLhyphen"/>deed <hi>he</hi> is, but not in the quality of a Sacrifice to be offered, as in the Maſs, whereof <hi>he</hi> is the <hi>Matter,</hi> but as a <hi>Mediator</hi> onely. It is not <hi>Him,</hi> but <hi>By him</hi> we are to offer.</p>
+            <p>Now ſeeing we may be ſecure, it is not <hi>that</hi> we might poſſibly fear; let us ſee what it is we may ſafely, and muſt neceſſarily per<g ref="char:EOLhyphen"/>form.</p>
+            <p>We are firſt to <hi>offer</hi> a Sacrifice <hi>to God.</hi>
+            </p>
+            <list>
+               <item>2. That for the <hi>kinde,</hi> is <hi>Euchariſtical,</hi> not Propitiatory.</item>
+               <item>3. The <hi>Matter</hi> of it is to be, not the <hi>Fruit</hi> of our Fields, or of our Flocks, but of <hi>our Lips.</hi>
+               </item>
+               <item>4. Not every fruit that grows upon the lips, but <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> lips <hi>Confeſsing to his (i. e. Gods) Name.</hi>
+               </item>
+               <item>5. This confeſſing here is not <hi>of him,</hi> (though that be otherwiſe neceſſary; for he that denies him, ſhall be denied by him) but <hi>To him,</hi> and that makes it a Sacrifice.</item>
+               <item>6. It muſt be <hi>to Him,</hi> and not to any <hi>Crea<g ref="char:EOLhyphen"/>ture, Saint,</hi> or <hi>Angel.</hi> Praiſe them we may, but offer a Sacrifice of praiſe, we muſt not.</item>
+               <item>7. It is not a Sacrifice to be done at ſtarts, and upon occaſions, but <hi>continually, a daily Sacrifice.</hi>
+               </item>
+               <item>
+                  <pb n="6" facs="tcp:97329:4"/>8. It is to be <hi>offered by Him,</hi> that is, by <hi>Chriſts merits and mediation</hi> 'Tis that which gives power and efficacy to this and all our ſervices, which would be nothing worth, if we came in our own names.</item>
+            </list>
+            <p>Laſtly, You have the <hi>Reaſon,</hi> why all this, <hi>Therefore;</hi> and that ſends us back to the Twelfth Verſe, <hi>Wherefore Jeſus, that he might ſanctifie the people by his Blood, ſuffered without the Gate.</hi> That he ſuffered for us, and that he ſuffered without the Gate, are the reaſons, why <hi>by him,</hi> and why <hi>of us. By him,</hi> becauſe by the ſacrificing of himſelf, he made our peace with God. <hi>By him therefore let us offer the ſacrifice of praiſe to God for it.</hi> And why <hi>of us?</hi> Becauſe <hi>he ſuffered without the Gate;</hi> whither the <hi>Jews</hi> that were within the Gate muſt go out and follow him, in the next Verſe, leaving their <hi>City</hi> and <hi>Sanctuary.</hi> And we the <hi>Gentiles</hi> that are with<g ref="char:EOLhyphen"/>out the Gate already, may finde him in our own Territories, that ſo both <hi>Jew</hi> and <hi>Gen<g ref="char:EOLhyphen"/>tile</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> joyntly together, as the word imports, <hi>May confeſs to the honor of his Name.</hi>
+            </p>
+            <p>And as <hi>Therefore</hi> carries in it the reaſon of our duty, ſo it doth in that ſome accommoda<g ref="char:EOLhyphen"/>tion it hath to the time: For this is <hi>Paſsion
+<pb n="7" facs="tcp:97329:4" rendition="simple:additions"/>Sunday;</hi> and why ſo called, we learn from <hi>Rupertus</hi> and others, becauſe the <hi>Jews</hi> on this day met together, to conſult of, and contrive the death of <hi>our Lord;</hi> which, not many days after, they effected.</p>
+            <p>It will not be fit (I confeſs) for that reaſon, to anticipate the <hi>Meditations</hi> proper to that So<g ref="char:EOLhyphen"/>lemnity. Yet as now the <hi>Paſsion</hi> was in pre<g ref="char:EOLhyphen"/>paration and conception by them, it will be ſo far a keeping of time with it, if we alſo now ſhall prepare a Sacrifice of praiſe for it, that we may be fit then to honor God by confeſs<g ref="char:EOLhyphen"/>ing to his Name, the wonderful mercies and unſpeakable benefits we receive by the <hi>Paſsion</hi> and <hi>Reſurrection</hi> of <hi>our Lord.</hi>
+            </p>
+            <p>
+               <hi>By him therefore let us offer the Sacrifice of Praiſe to God continually, that is, the Fruit of our lips confeſsing to his Name.</hi>
+            </p>
+            <p>And that we may the better perform our <hi>Sacrifice of Praiſe, Let us by him alſo offer a Sacri<g ref="char:EOLhyphen"/>fice of Prayer, &amp;c.</hi>
+            </p>
+            <p>THat we are to <hi>offer</hi> a <hi>SACRIFICE to God,</hi> is here ſo plainly enjoyned, and ſo punctually deſcribed, both for <hi>matter</hi> and <hi>man<g ref="char:EOLhyphen"/>ner</hi> in every <hi>circumſtance,</hi> that one would think it ſtrange it ſhould be neglected, and more
+<pb n="8" facs="tcp:97329:5"/>ſtrange it ſhould be contemned by any. But for our ſelves, if we would be clear in this <hi>matter</hi> (as every good man ſhould deſire to be) it is fit we call our ſelves to account when, and how we perform it.</p>
+            <p>The <hi>Antient</hi> and <hi>Frimitive Church</hi> (of whom this may beſt be learned) did, in conſcience of their duty herein, compoſe ſeveral <hi>Liturgies,</hi> that by them they might have a <hi>Publick daily Sacrifice</hi> for the honor and worſhip of <hi>God;</hi> as that of St. <hi>James</hi> at <hi>Jeruſalem,</hi> St. <hi>Marks</hi> at <hi>Alex<g ref="char:EOLhyphen"/>andria;</hi> after that, St. <hi>Chryſoſtoms</hi> at <hi>Antioch,</hi> St. <hi>Baſils</hi> at <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aeſaria,</hi> St. <hi>Gregories</hi> at <hi>Rome;</hi> and indeed, there was no Church without one. They that wrote <hi>Apologies</hi> for the <hi>Chriſtians,</hi> being of the <hi>Heathen</hi> accuſed of <hi>Atheiſm,</hi> becauſe they were never ſeen to offer ſacrifice to the Gods; for anſwer to <hi>that,</hi> had recourſe to this <hi>Sacrifice of Praiſe</hi> in the Text.</p>
+            <p>The Copies of thoſe <hi>Antient Liturgies,</hi> as they come now to our hands, have no doubt ſuffered the fate of time, that is, ſome changes, by which the prepoſterous zeal of ſome hath overcharged them with numerous, and ſome<g ref="char:EOLhyphen"/>times ſuperſtitious <hi>Additions;</hi> yet the ſubſtance and intendment of them was to perform this duty. And therefore <hi>our Church,</hi> that never
+<pb n="9" facs="tcp:97329:5" rendition="simple:additions"/>was of the minde to fling away Chaff and Corn, both at once, That they might not want what all Churches ever had; ſo ordered our <hi>Liturgy,</hi> that by it we might wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h ſafety and true devotion, daily <hi>Sacrifice</hi> to the praiſe and honor of God Wherein they have fol<g ref="char:EOLhyphen"/>lowed, not onely <hi>Precept,</hi> but <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atern</hi> alſo from this Text, as by a ſhort parallel between them, may viſibly appear; as firſt,</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> The Text calls us to a <hi>Sacrifice,</hi> and the <hi>Liturgy</hi> is that <hi>Sacrifice. Antioch</hi> was the place where <hi>Chriſts Diſciples</hi> were firſt called <hi>Chriſtians;</hi> and <hi>Antioch</hi> is the place where the <hi>Chriſtian Ser<g ref="char:EOLhyphen"/>vice</hi> is firſt called a <hi>Liturgy.</hi>
+               <note place="margin">Acts 13.</note> We finde the <hi>Diſci<g ref="char:EOLhyphen"/>ples</hi> met together at their <hi>Liturgy</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Verſ. 2.</note> which we tranſlate, <hi>Faſting and Miniſtring to the Lord;</hi> for <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> pro<g ref="char:EOLhyphen"/>perly ſignifies a <hi>Publick Miniſtration;</hi> to which, the word uſed by the <hi>Church,</hi> fits well, calling it <hi>Common Prayer;</hi> and is ſo expounded by St. <hi>Luke</hi> himſelf in the next Verſe,<note place="margin">Verſ. 3.</note> 
+               <hi>When they had Faſted and Prayed.</hi> This <hi>Liturgy</hi> or <hi>Miniſtring to God,</hi> muſt needs be in ſomething for <hi>His honor</hi> and <hi>ſervice,</hi> which is properly a <hi>Sacrifice.</hi>
+            </p>
+            <list>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, As it is a Sacrifice to <hi>God,</hi> ſo to none but <hi>God:</hi> We call it <hi>Divine Service,</hi> and ſo we uſe it. No <hi>Creature, Saint,</hi> or <hi>Angel,</hi> hath
+<pb n="10" facs="tcp:97329:6"/>any part in it, as in ſome they have. <hi>Praiſe</hi> them we may for the good ſervice they have done the <hi>Church;</hi> but offer a <hi>Sacrifice of Praiſe</hi> we may not. It was never heard, ſaith St. <hi>Auguſtine, Offero tibi Sacrificium, Petre,</hi> or <hi>Paule,</hi> or <hi>Cypriane.</hi> And though the invocation of them ſimply be not a Sacrifice, yet it is ſuch, when uſed in <hi>Divine Service</hi> in the place of one. And that it is not heard in our <hi>Liturgy,</hi> it is no doubt, with their good leave and liking too. The <hi>Angel Rev.</hi> 19. will anſwer for <hi>that</hi> Order: When St. <hi>John</hi> would have worſhipp'd him, <hi>Do it not</hi> (ſays he) <hi>I am your fellow ſervant.</hi> And the Apoſtles <hi>Paul</hi> and <hi>Barnabas</hi> for <hi>their</hi> Order, when the men of <hi>Lyſtra</hi> would have ſacrificed to them,<note place="margin">Acts 14.15.</note> they cryed out, <hi>Sirs, why do you theſe things? we alſo are men of the like Paſsions with you.</hi> That they are <hi>Gods</hi> friends, intitles them to no more than a place in his Court to <hi>do him ſer<g ref="char:EOLhyphen"/>vice,</hi> not in his Throne to <hi>receive</hi> any. And therefore that honor which <hi>God</hi> hath not given to another, we have not given to them in our <hi>Liturgy.</hi>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="III"/> Thirdly, The Sacrifice of the Text is <hi>Eu<g ref="char:EOLhyphen"/>chariſtical,</hi> a <hi>Sacrifice of Praiſe,</hi> and ſo is our <hi>Liturgy.</hi> We pretend to no expiation or ſa<g ref="char:EOLhyphen"/>tisfaction for ſins, either of quick or dead:
+<pb n="11" facs="tcp:97329:6"/>We ow <hi>that</hi> to a better Sacrifice. The price of <hi>Redemption</hi> is greater than any ſervice we can do: It coſt more to redeem our ſouls, we muſt let that alone for ever; and therefore in the <hi>Liturgy,</hi> our Sacrifice is ſet to no higher key, than, <hi>We praiſe thee, O God,</hi>
+                  <note place="margin">Pſal. 49.</note> 
+                  <hi>&amp;c.</hi>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="IV"/> Fourthly, In every Sacrifice there muſt be ſomething offered, and that in the Text is <hi>the fruit of our Lips:</hi> For though the Root of this and every good ſervice, muſt be in the <hi>heart,</hi> yet the fruit muſt ſprout outwardly in the <hi>lips.</hi> For though a <hi>vertue</hi> may ſometimes be accompliſhed in the heart onely, yet neither this nor <hi>Prayer</hi> it ſelf, if private or mental onely, (though otherwiſe of excellent uſe) will amount to a Sacrifice, till it come into the lips; for no proper Sacrifice is inviſible: And therefore in our <hi>Liturgy,</hi> as we pray, that <hi>God</hi> would <hi>open our lips;</hi> ſo we practiſe when we joyn with the Prieſt in the <hi>Confeſsions</hi> and <hi>Pſalms,</hi> and in ſuch things where he alone is not concerned.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="V"/> Fifthly, It is not every fruit that grows upon the lips, is fit to make a Sacrifice, but <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>lips that confeſs to his Name.</hi> But how comes confeſſing more than any thing elſe, to relate to a Sacrifice? It is thus. The end
+<pb n="12" facs="tcp:97329:7"/>and import of every thing offered to <hi>God</hi> in Sacrifice <hi>Euchariſtical,</hi> is a Profeſſion and Ac<g ref="char:EOLhyphen"/>knowledgment of <hi>ſome bleſsing</hi> beſtowed upon the Sacrificer; and ſo either expreſly or impli<g ref="char:EOLhyphen"/>citely is joyned with it. As for inſtance; At the offering of the <hi>firſt-fruits,</hi> they are com<g ref="char:EOLhyphen"/>manded to make a <hi>Confeſsion</hi> in this form. <hi>Thou ſhalt go unto the Prieſt,</hi>
+                  <note place="margin">Deut. 26.3.</note> 
+                  <hi>and ſay thus unto him, I confeſs this day unto the Lord thy God, that I am come into the Country which the Lord ſware unto our Fathers to give us;</hi> That is, in the <hi>firſt-fruits</hi> they confeſt the Land that bore them to be of <hi>Gods</hi> gift. Now of ſuch confeſſions as theſe, the whole body and matter of the <hi>Liturgy</hi> is framed.</item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Our firſt addreſs and approach into <hi>Gods</hi> preſence is, by a <hi>Confeſsion of our ſins,</hi> which is a putting off our ſhoes with the defilements we have contracted in our ways; for the place and preſence is holy. And by this we make Profeſſion and Acknowledgment of <hi>Gods</hi> per<g ref="char:EOLhyphen"/>fect purity and holineſs, in that we preſume not to come into his preſence, till we firſt put off our uncleanneſs.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Then follows the <hi>Abſolution;</hi> and this is an<g ref="char:EOLhyphen"/>other Confeſſion of his infinite mercy, that he is willing to forgive our ſins, and to
+<pb n="13" facs="tcp:97329:7"/>uſe the miniſtry of ſinful man, to confer it upon us.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Then we have the <hi>Hymns</hi> and <hi>Pſalms,</hi> which is a third Confeſſion to his Name, whereby we do with chearful and thankful hearts, ac<g ref="char:EOLhyphen"/>knowledge him to be the <hi>Author</hi> of all the good we enjoy, or hope for.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> For <hi>Leſſons</hi> we have the Scriptures read, and they are written for our learning: In that we confeſs, <hi>God</hi> to be our <hi>infallible Teacher,</hi> to whoſe <hi>Oracles</hi> we ſubmit to be guided, both in faith and manners.</p>
+            <p>And becauſe the <hi>Rules</hi> of both lie diffuſed through the whole body of Scripture, we have them ſumm'd up in the <hi>Creeds</hi> and <hi>De<g ref="char:EOLhyphen"/>calogue.</hi> In the <hi>Creeds</hi> we acknowledge our faith in his wiſdom, who hath ſo myſteriouſly contrived the means and way of our Salvati<g ref="char:EOLhyphen"/>on, before unknown to Men and Angels: And in the <hi>Decalogue</hi> we confeſs his Dominion, That he is our <hi>Lawgiver;</hi> and to that our <hi>Pa<g ref="char:EOLhyphen"/>tron</hi> alſo, not onely gives us <hi>Laws</hi> but <hi>Grace,</hi> and <hi>hearts</hi> to keep them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> In the <hi>Collects, Prayers,</hi> and <hi>Supplications,</hi> for the ſupply of our wants and neceſſities, as well temporal as ſpiritual, we acknowledge <hi>every good gift, and every perfect giving to come down from the Father of lights.</hi>
+            </p>
+            <p>
+               <pb n="14" facs="tcp:97329:8"/>But the chief of all the Confeſſions is that, for which our <hi>Saviour</hi> inſtituted a Sacrament. <hi>Do this in remembrance of me;</hi> that is, in Com<g ref="char:EOLhyphen"/>memoration and Acknowledgment of what he by his blood hath purchaſed for us: For we muſt not think, as ſome do, that a Sacra<g ref="char:EOLhyphen"/>ment ſhould be inſtituted for relief onely of a bad memory, like a thred tied about the fin<g ref="char:EOLhyphen"/>ger; but ſolemnly to celebrate the memory of the greateſt of bleſſings that <hi>God</hi> ever beſtow<g ref="char:EOLhyphen"/>ed upon men; the <hi>Redemption</hi> of our Souls by the blood of his dear <hi>Son:</hi> And therefore this Confeſſion carries away from all the reſt, the name of an <hi>Euchariſt,</hi> a Sacrifice of Praiſe and Thankſgiving.</p>
+            <p>By this we ſee the <hi>matter</hi> of the Sacrifice of the Text fulfilled in the <hi>Liturgy</hi> by <hi>Confeſsing to his Name.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VI"/> The next thing to be obſerved is, <hi>the circum<g ref="char:EOLhyphen"/>ſtance of time</hi> when this Sacrifice is to be offer<g ref="char:EOLhyphen"/>ed, and that is <hi>continually.</hi> In conformity to this, our Service is a continual daily ſacrifice, a <hi>Morning</hi> and <hi>Evening Prayer.</hi> And though the greateſt benefit of this belongs to thoſe that daily attend it; yet becauſe it is the <hi>Publick Sacrifice</hi> of the <hi>Church,</hi> all that are Members of <hi>that</hi> have their part and intereſt in it, though
+<pb n="15" facs="tcp:97329:8"/>they be abſent, yet not in equal meaſure. The <hi>preſent</hi> are intitled to the benefit as a <hi>Sa<g ref="char:EOLhyphen"/>crifice</hi> offered <hi>by them;</hi> the <hi>abſent</hi> as a <hi>Sacrifice</hi> offered <hi>for them.</hi> For this is our <hi>juge Sacrificium</hi> that is perpetually burning upon the Altar, for the ſervice of <hi>God,</hi> and in behalf of every member of the Church, that doth not <hi>ponere obicem,</hi> ſet a bar upon himſelf by his wilful neglect of it, and oppoſition to it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VII"/> Laſtly, <hi>By him</hi> we are to offer; 'Tis his merit and mediation that crowns the <hi>Sacrifice.</hi> In vain ſhould ſinful man approach ſo great a <hi>Majeſty</hi> in his own Name; but <hi>by him who hath made our peace with God, and ſanctified us by his blood,</hi> we may finde acceſs to him. This <hi>by him</hi> gives the Characteriſtical difference of the <hi>Chriſtian ſacrifice</hi> from all others; for other<g ref="char:EOLhyphen"/>wiſe the <hi>Sacrifice of Praiſe</hi> was common to all times <hi>before,</hi> and <hi>under</hi> the Law. You finde in many <hi>Pſalms</hi> a Sacrifice of Praiſe and Thankſgiving, but in none of them <hi>by him,</hi> in <hi>Chriſts</hi> name.<note place="margin">St. Joh. 16.24.</note> 
+               <hi>Hitherto ye have asked nothing in my Name</hi> (ſays our <hi>Saviour</hi>) but hereafter his Name will give vertue and efficacy to all our ſervices: And therefore to gain ſo gracious an <hi>Advocate</hi> with the <hi>Father,</hi> our Prayers and Supplications are in the <hi>Liturgy</hi> offered up in
+<pb n="16" facs="tcp:97329:9"/>his Name, concluding always, <hi>By the merits of our Lord Jeſus Chriſt.</hi>
+            </p>
+            <p>THus you ſee the Text exemplified through<g ref="char:EOLhyphen"/>out in the <hi>Liturgy;</hi> and the <hi>Liturgy</hi> there<g ref="char:EOLhyphen"/>fore warranted by the Text. I could not pro<g ref="char:EOLhyphen"/>miſe my ſelf time enough to take a view of all the particulars, I have therefore reduced that I have to ſay at this time, to this one Ob<g ref="char:EOLhyphen"/>ſervation in groſs.</p>
+            <p>
+               <hi>That our Liturgy or Common Prayer is a true Sacrifice to God, for the praiſe and honor of His Name.</hi>
+            </p>
+            <p>And to this I ſhall not <hi>beg</hi> the aſſent of thoſe that like it not, but <hi>require it;</hi> and by the authority of the ſame <hi>Apoſtle</hi> in an other place, <hi>Rom.</hi> 15.8. where we read, That <hi>Jeſus Chriſt was a Miniſter of the Circumciſion for the truth of God, to confirm the promiſe made unto the Fathers.</hi> Now what that promiſe was, he tells us in the next Verſe. <hi>That the Gentiles might glorifie God for his mercy, as it is written, For this cauſe I will confeſs to thee among the Gentiles, and ſing praiſes unto thy Name.</hi> Here are Confeſsions,
+<pb n="17" facs="tcp:97329:9"/>and Praiſes, and Singing, by which <hi>God</hi> is to be glorified among the Gentiles: They that will be <hi>Chriſtians</hi> upon other terms, do in effect make <hi>God</hi> a lier, who promiſed it ſhould be ſo.</p>
+            <p>And yet they that would not have it ſo, are very many, and of many ſorts; and though I cannot think the worſe of it, that it lies un<g ref="char:EOLhyphen"/>der a popular diſlike; yet becauſe it is no ill way of learning our duties by the folly of thoſe that oppoſe it, I ſhall give you a ſhort account of them<g ref="char:punc">▪</g>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> The <hi>ATHEIST</hi> firſt charges it with ſuch weapons as he hath, <hi>ſcorn</hi> and <hi>drollery:</hi> That theſe <hi>Forms,</hi> and <hi>Ceremonies,</hi> and <hi>Pageantry</hi> of worſhipping <hi>God</hi> in <hi>Liturgies,</hi> is but a trade invented by the <hi>Prieſts,</hi> to get their living, and according to the priviledge of <hi>Inventors,</hi> they claim a <hi>Monopoly,</hi> that they onely may have the <hi>offering</hi> of that <hi>Sacrifice.</hi>
+            </p>
+            <p>It is not ſtrange, that they <hi>who have not God in their hearts,</hi> as the Prophet <hi>David</hi> ſpeaks of thoſe fools, ſhould have any ſacrifice in their <hi>lips for him.</hi> In this onely, I confeſs, they are no fools. If there be no God, we need not trouble our ſelves about a <hi>Sacrifice;</hi> but if there be a God, let them take the <hi>fool</hi> again;
+<pb n="18" facs="tcp:97329:10"/>for <hi>Sacrifice</hi> is his due. Never was any Nation ſo barbarous, that fancied a <hi>Deity,</hi> but thought it neceſſary to make ſome teſtification and ac<g ref="char:EOLhyphen"/>knowledgment of it by <hi>Sacrifice</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> To theſe we may joyn the whole <hi>Herd</hi> of <hi>SECTARIES,</hi> who are but a kinde of <hi>godly Atheiſts.</hi> When the late ſtorm that raged amongſt us, brought with it thoſe <hi>Locuſts</hi> that over-ſpread the Nation; though their whole buſineſs was to deſtroy, yet of all moſt viru<g ref="char:EOLhyphen"/>lently the <hi>Publick Service</hi> of the <hi>Church.</hi> And hence it is, that in the practice of their devo<g ref="char:EOLhyphen"/>tions, you ſhall finde nothing that looks like the <hi>offering</hi> of a <hi>Sacrifice of praiſe for the honor of God:</hi> But their meeting together, is onely to tell one another their dreams and ridiculous phanſies, belying the <hi>holy Spirit</hi> an hour or two, and then depart. And ſo I leave them.</p>
+            <p>And come to another ſort of enemies, whom I intend more particularly to call to an ac<g ref="char:EOLhyphen"/>count, and the rather, becauſe they ſeem to allow of a <hi>Publick Sacrifice of praiſe,</hi> as far as a free <hi>Directory</hi> will go; but for a ſet and ſtinted <hi>Liturgy</hi> (as they call it) they have it in abomi<g ref="char:EOLhyphen"/>nation, as appears by the heap of accuſations they bring againſt it.</p>
+            <list>
+               <pb n="19" facs="tcp:97329:10"/>
+               <item>1. <hi>That it is a polluted unclean thing.</hi>
+               </item>
+               <item>2. <hi>That it is a dead Sacrifice.</hi>
+               </item>
+               <item>3. <hi>A Book-ſervice of the Letter, and not of the Spirit.</hi>
+               </item>
+               <item>4. <hi>A Childiſh.</hi>
+               </item>
+               <item>5. <hi>Confuſed.</hi>
+               </item>
+               <item>6. <hi>Improper, impertinent ſervice.</hi>
+               </item>
+               <item>7. <hi>A tedious ſervice.</hi>
+               </item>
+               <item>8. <hi>A lame ſacrifice, full of defects.</hi>
+               </item>
+            </list>
+            <p>And laſtly, <hi>A blinde one, that edifies not.</hi>
+            </p>
+            <p>All this dirt and filth they caſt upon it, is eaſily wiped off with a right underſtanding of this onely general Doctrine of the Text, <hi>That it is a ſacrifice of praiſe to Gof for the honor of His Name.</hi>
+            </p>
+            <list>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="I"/> Firſt, They ſay it is a polluted unclean thing, taken out of the <hi>Popiſh Miſſal</hi> and <hi>Bre<g ref="char:EOLhyphen"/>viary:</hi> But if it be truly according to the pa<g ref="char:EOLhyphen"/>tern in the Text, as ye have heard, <hi>a Sacrifice of praiſe to God,</hi> we need not be troubled through what hands it paſſed before it came to us: For as we are not aſhamed to confeſs that our <hi>Religion</hi> is not a <hi>new,</hi> but <hi>Reform'd Religion;</hi> ſo, nor need we be aſhamed to ſay, We worſhip <hi>God,</hi> not by a <hi>new,</hi> but <hi>Reform'd Liturgy:</hi> And ſo our <hi>Faith</hi> and <hi>Religion</hi> are both of a piece, and both as old as the Text.</item>
+               <item>
+                  <pb n="20" facs="tcp:97329:11"/>
+                  <milestone type="tcpmilestone" unit="unspecified" n="II"/> Secondly, They ſay it is a dead Sacrifice, made up of empty <hi>Forms</hi> and <hi>Ceremonies,</hi> void of that life and affection which is neceſſary in <hi>Gods ſervice.</hi> If there be that want of affecti<g ref="char:EOLhyphen"/>on in our Prayers, it is a fault, lie where it may: But certainly the <hi>Forms</hi> are not guilty of it. It is injuſtice to require that in a <hi>Sa<g ref="char:EOLhyphen"/>crifice,</hi> which belongs onely to him that <hi>offers</hi> it. The <hi>Church</hi> that compoſed the <hi>Forms</hi> can<g ref="char:EOLhyphen"/>not create <hi>affection.</hi> If we come to this <hi>Sacrifice</hi> and leave our hearts behinde us, I know where the blame muſt lie.</item>
+            </list>
+            <p>But you will ſay, you do not accuſe <hi>Set Forms,</hi> for want of life in themſelves, but that by the continual repetition of the ſame things, they be-dead <hi>affection</hi> in thoſe that ſhould have it. And how, I pray, ſhould that be? If the ſenſe of <hi>real wants</hi> and <hi>bleſsings,</hi> which are al<g ref="char:EOLhyphen"/>ways the ſame, cannot keep up our <hi>affections,</hi> how ſhould a new ſet of words do it? Can we imagine that <hi>God</hi> ſhould be taken with variety and ſhift of phraſes, or that the <hi>affecti<g ref="char:EOLhyphen"/>on</hi> that takes heat from them, will render the <hi>ſervice</hi> more acceptable to <hi>God?</hi>
+            </p>
+            <p>And therefore, when they complain that their devotion is tired with nothing but <hi>Al<g ref="char:EOLhyphen"/>mighty and moſt merciful Father,</hi> in the <hi>Morning;</hi>
+               <pb n="21" facs="tcp:97329:11"/>and <hi>Almighty and moſt merciful Father,</hi> in the <hi>Eve<g ref="char:EOLhyphen"/>ning;</hi> and the ſame over and over again every day: That complaint did never lie againſt the <hi>Jews</hi> daily Sacrifice, which was a type of ours; that there was a <hi>Lamb</hi> in the <hi>morning,</hi> and a <hi>Lamb</hi> again at <hi>evening;</hi> and the ſame over again every day in the year. When our <hi>Saviour</hi> at his laſt agony in the <hi>Garden,</hi> three times retired himſelf from his <hi>Diſciples</hi> to pray, he uſed ſtill the ſame form of words without any change, St. <hi>Matth.</hi> 26.44. And who dares ſay he want<g ref="char:EOLhyphen"/>ed <hi>ability</hi> to vary <hi>his prayer,</hi> or can ſay, he want<g ref="char:EOLhyphen"/>ed <hi>affection,</hi> though he did not? For as St. <hi>Luke</hi> relates it, <hi>He prayed ſo earneſtly,</hi>
+               <note place="margin">St. Luk. 22.44.</note> 
+               <hi>that his ſwet was as it were great drops of blood falling down to the ground;</hi> and then ſure there was no want of <hi>affection;</hi> for when our zeal is at the hotteſt, we do not uſe to ſwet at our prayers.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="III"/> I go on to a third charge; That Set Forms, inſtead of helping us, hinder the Spirit by which we ſhould pray. The truth is, Such as the Spirit may be, and too often uſeth to be, it ought rather to be bound with chains, then left at liberty; under a Form of Praying, to <hi>Libel</hi> their Governors, or whom, or what they pleaſe to bring into hatred with the people: But for the true Spirit of Prayer, that cannot
+<pb n="22" facs="tcp:97329:12"/>be tyed with words: For they are utterly miſ<g ref="char:EOLhyphen"/>taken that think the Spirit of Prayer, ſupplies any defect of words or phraſes; for that very Text of St. <hi>Paul,</hi> whereon they ground it, con<g ref="char:EOLhyphen"/>futes them; <hi>Rom.</hi> 8.26. <hi>The ſpirit helpeth our in<g ref="char:EOLhyphen"/>firmities.</hi> But in what? not in words; for what the Spirit ſupplies are there ſaid to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>not ſpoken at all;</hi> or, as we tranſlate it, <hi>which cannot be uttered.</hi> What then doth it ſup<g ref="char:EOLhyphen"/>ply? <hi>It maketh interceſsion for us with groans, which cannot be uttered.</hi> The true Spirit of Prayer conſiſts in groans, in zeal, and fervency; and that, where it is, will animate and put life into any Form of Prayer. They who call Forms of their own making, or borrowing, con'd without Book, Praying by the Spirit, do both cheat the people, and blaſpheme the <hi>Holy Ghoſt.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IV"/> A fourth Objection is, That it is but a Book-Sacrifice, a Reading-Service, which any childe may do. They complain it ſeems of eaſe: If <hi>God</hi> ſhould require a harder thing of us, as no doubt there are many harder things to be done, do them we muſt. The eaſineſs lays the greater obligation upon us: How ridiculous would this exception appear againſt the <hi>Legal Sacrifices!</hi> A Butcher could
+<pb n="23" facs="tcp:97329:12"/>kill and dreſs a <hi>Lamb,</hi> as well as a <hi>Prieſt.</hi> This is a falſe, deceitful weight. <hi>Gods ſervice</hi> is not to be weighed by <hi>the labor</hi> of doing, but by <hi>the relation</hi> to him, for whom it is done: And therefore King <hi>Solomon,</hi> when, by the advice of his Father upon his death-bed, he call'd to ac<g ref="char:EOLhyphen"/>count the chief Leaders in the rebellion of <hi>A<g ref="char:EOLhyphen"/>doniah,</hi> as <hi>Joab</hi> that commanded in chief, and <hi>Abiathar</hi> the <hi>High Prieſt,</hi> made no queſtion of putting <hi>Adoniah</hi> and <hi>Joab</hi> to death; but for <hi>Abiathar,</hi> though he deprived him of his office, yet he ſpared his life. And why? he gives no other reaſon but this, <hi>Becauſe he bore the Ark before his Father David.</hi> But was that a work of ſuch merit and difficulty? Could not any Porter do as much? it was but carrying of a Cheſt. <hi>Solomon</hi> did not take his meaſure by that. That <hi>Sacred Cheſt,</hi> the <hi>Ark</hi> was a <hi>Symbol</hi> of <hi>Gods</hi> preſence; it had relation to his <hi>Ser<g ref="char:EOLhyphen"/>vice,</hi> and that he preferred before his own; for <hi>Adoniah</hi> was his Brother of the half-blood, and <hi>Joab</hi> his coſin-german.</p>
+            <p>You that are the <hi>Kings ſervants</hi> here in Court, do not weigh the merit and honor of your places, which you juſtly have, by the pains and difficulty of your ſervice, which we know in many is little enough, but by the great<g ref="char:EOLhyphen"/>neſs
+<pb n="24" facs="tcp:97329:13"/>of the <hi>Maſter</hi> for whom you do it. Chil<g ref="char:EOLhyphen"/>dren may be able to read the Book, but not therefore fit to <hi>offer</hi> the <hi>Sacrifice.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="V"/> They are troubled with the rude, confuſed noiſe that is made by the people, in anſwering to the <hi>Confeſsions</hi> and <hi>Pſalms.</hi> It ſeems their ears are as tender as their conſciences, and both a<g ref="char:EOLhyphen"/>like out of tune: For this is a <hi>Publick Sacrifice,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the Text, <hi>i. e.</hi> a <hi>Confeſsing together.</hi> Now there can be no communication of men together, but by ſpeech, and therefore of ne<g ref="char:EOLhyphen"/>ceſſity it muſt be the <hi>Fruit of our Lips.</hi> But while we, in obedience to that, pray <hi>God to open our Lips,</hi> they teach the people to <hi>ſhut</hi> them. They take it very ill, that they are ſilenced, though they deſerve it, and yet ſtick not to ſilence the whole <hi>Congregation,</hi> without any of<g ref="char:EOLhyphen"/>fence or fault of theirs.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VI"/> They ſay it is an improper and impertinent Service: We uſe ſuch <hi>Hymns</hi> and <hi>Pſalms</hi> for our <hi>Praiſes</hi> and <hi>Thankſgivings</hi> as are not proper and appliable to us: For how can any one that is a Man, ſay in the <hi>Magnificat, Thou haſt regarded the lowlineſs of thy handmaid?</hi> Or how can it be ſeaſonable for all, eſpecially young men, to ſay in the <hi>Nunc dimittas, Lord now let thy ſervant depart in peace.</hi>
+            </p>
+            <p>
+               <pb n="25" facs="tcp:97329:13"/>For anſwer to this, and the reſt of that kinde: It is but turning to the Doctrine of the Text, as we have done in all the reſt. The <hi>Liturgy</hi> is the Churches <hi>Publick Sacrifice of Praiſe;</hi> and in that we are not onely to give thanks for <hi>bleſsings</hi> immediately conferred upon our per<g ref="char:EOLhyphen"/>ſons, but upon us with the whole Church, by the intervention of others. For in the <hi>Bleſs<g ref="char:EOLhyphen"/>ed Virgin</hi> we do all partake of the <hi>grace</hi> done to her, being taken to be the <hi>Mother</hi> of <hi>our Lord.</hi> And in <hi>old Simeon</hi> we rejoyce at the ſight of <hi>that ſalvation,</hi> which was <hi>a Light to us Gentiles, as well as a glory to the people of Iſrael.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VII"/> They are offended with the length of the Service, which makes it not onely tedious in it ſelf, but injurious alſo by hindring the <hi>Sermon.</hi> To meaſure the length firſt: If we lay our line to it, you will not finde it ſo. It takes up but a very ſhort part of the whole time which <hi>God</hi> has beſtowed upon us; of which enough we have, and too much we take many times for our reſt and ſleep, enough for our own neceſſary buſineſs, and a good <hi>portion</hi> beſides for our pleaſures and lawful <hi>de<g ref="char:EOLhyphen"/>lights.</hi> Can we think an hour or two ſpared out of all this, too long for <hi>Gods ſervice?</hi> or a <hi>Lamb</hi> too much for him, who has beſtowed
+<pb n="26" facs="tcp:97329:14"/>the <hi>whole flock</hi> upon us? The tediouſneſs which is cauſed by the <hi>length</hi> of the <hi>Service,</hi> is cured by the <hi>end.</hi> It muſt needs be a leſs trouble to us, if we conſider it to be <hi>an honour for God.</hi> To ſay no more, How can we think thoſe <hi>Prayers</hi> too long, in which we our ſelves ſue for <hi>eter<g ref="char:EOLhyphen"/>nity?</hi>
+            </p>
+            <p>Nevertheleſs, if the <hi>length</hi> of the <hi>Liturgy</hi> ſhould, as they ſay, prove a hinderance to <hi>Preaching,</hi> I had ſo much the leſs to ſay for it: But how that ſhould be, I underſtand not. The <hi>Wiſe man</hi> aſſures us, <hi>there is a time for all things,</hi> and ſure then there is a time for <hi>two</hi> things, <hi>Prayer</hi> and <hi>Preaching</hi> both. But poſ<g ref="char:EOLhyphen"/>ſibly we may be ſo ſurpriſed, that there is not time for both; The <hi>Caſe</hi> of <hi>Conſcience</hi> here will be, which of them may beſt be ſpared. The <hi>Prayers</hi> are to <hi>God,</hi> the <hi>Sermons</hi> to us; the <hi>Pray<g ref="char:EOLhyphen"/>ers</hi> for <hi>Gods honor,</hi> the <hi>Sermons</hi> for our profit. In this caſe, I think I may ſafely leave every man to be his own Caſuiſt, and go on to the next.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="VIII"/> It is defective, and ſo a lame Sacrifice. How inconſiſtent are their complaints, and how hard are they to be pleaſed? It is both too long and too ſhort. They mean it is too long in the whole, and too ſhort in the parts. In the
+<pb n="27" facs="tcp:97329:14"/>
+               <hi>Confeſsion of ſins,</hi> in the <hi>Thankſgivings,</hi> in the <hi>Collects,</hi> many material things omitted. The Scriptures read in broken pieces, and not in order.</p>
+            <p>Theſe would not be counted <hi>defects,</hi> if we conſidered their <hi>end</hi> and <hi>uſe</hi> in the <hi>Liturgy,</hi> which is to be a <hi>Sacrifice of praiſe to God,</hi> for that is ſufficiently attained by them as they are there uſed.</p>
+            <p>It is true, if we reſpect theſe <hi>duties</hi> in refer<g ref="char:EOLhyphen"/>ence to their immediate <hi>proper effects,</hi> the <hi>com<g ref="char:EOLhyphen"/>mon Forms</hi> are <hi>inſufficient;</hi> for no man may pre<g ref="char:EOLhyphen"/>ſume of <hi>Remiſsion of ſins,</hi> unleſs he confeſs to <hi>God</hi> the particulars wherein he hath offended. Nor can be <hi>truly thankful</hi> to him for the <hi>bleſs<g ref="char:EOLhyphen"/>ings,</hi> whereof he makes no particular acknow<g ref="char:EOLhyphen"/>ledgment: Nor can attain to a <hi>full</hi> and <hi>clear knowledge</hi> of the Scriptures that reads not <hi>all,</hi> and in <hi>order.</hi> All this is eaſily granted.</p>
+            <p>But they are utterly miſtaken in the uſe of a <hi>Liturgy,</hi> that would have it to be a <hi>common ſtore</hi> to furniſh out every <hi>duty</hi> and <hi>vertue,</hi> and fur<g ref="char:EOLhyphen"/>ther than to ſerve for the publick honoring, and praiſing of <hi>God:</hi> For if particulars ſhould be named, wherein all are not concerned, how can they truly and heartily ſay, <hi>Amen?</hi> And likewiſe, when ſome <hi>portions</hi> onely of
+<pb n="28" facs="tcp:97329:15"/>Scripture are read, it is to ſuit the preſent oc<g ref="char:EOLhyphen"/>caſion and ſolemnity. And for particular <hi>Con<g ref="char:EOLhyphen"/>feſsions</hi> and <hi>Thankſgivings,</hi> if men were ſo <hi>well-affected,</hi> and ſo <hi>well-acquainted</hi> with their own Souls, as they ſhould be; when <hi>general words</hi> are uſed, they may if they pleaſe, reflect up<g ref="char:EOLhyphen"/>on their own particulars; and ſo render the <hi>Publick Service,</hi> an advantage alſo to their <hi>pri<g ref="char:EOLhyphen"/>vate intereſt</hi> and <hi>profit.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="IX"/> I will adde but one exception more. They ſay it is a blinde Sacrifice, and edifies not. To edifie is to contribute to the building of us up in <hi>faith</hi> or <hi>godlineſs;</hi> and then <hi>not edifying,</hi> the meaning muſt be, that it is good for no<g ref="char:EOLhyphen"/>thing. And truly, if it be ſo, it is but reaſon we ſhould part with it.</p>
+            <p>But poſſibly when they ſay, <hi>It doth not edifie,</hi> it may have ſome other meaning in it. They may ſay <hi>it edifies not,</hi> becauſe they like it not, or are not pleaſed and ſatisfied with the <hi>uſe</hi> of it, or, which is nearer; the true meaning of the word, there is nothing of <hi>inſtruction</hi> in it, which they have not heard a thouſand times before.</p>
+            <p>They who come to <hi>Prayers</hi> for theſe <hi>ends,</hi> may indeed be diſappointed, becauſe they come without their errant. This is a <hi>Sacrifice
+<pb n="29" facs="tcp:97329:15"/>for the praiſe and honor of God;</hi> if it edifies <hi>that,</hi> we have no cauſe to complain. A <hi>Sermon,</hi> I confeſs, may fit our turns better in both theſe reſpects, if it be as it ſhould be: It is no doubt a more pleaſing entertainment of the time, if it be to edifie our liking; and fitter for in<g ref="char:EOLhyphen"/>ſtruction, if it be to edifie <hi>our learning.</hi> But then to ſay, <hi>Divine Service</hi> doth not thus edifie, is to blame the <hi>Prayers,</hi> becauſe they are not a <hi>Sermon.</hi> You would take it ill, as well you might, if I ſhould except againſt <hi>Sermons,</hi> be<g ref="char:EOLhyphen"/>cauſe they are not <hi>Prayers, i. e.</hi> a Sacrifice of praiſe for the worſhip of <hi>God,</hi> as certainly they are not. But let both have their <hi>dues,</hi> and they are both good <hi>edifiers;</hi> The <hi>Sermon</hi> of <hi>Faith</hi> and <hi>Knowledge,</hi> the other of the <hi>Praiſe</hi> and <hi>Worſhip of God.</hi>
+            </p>
+            <p>Yea, that part, which, of all the reſt, ſeems leaſt to edifie, The <hi>Hymns,</hi> and <hi>Pſalms,</hi> and <hi>Anthems</hi> with Muſick, edifie the praiſe of <hi>God. I will praiſe the name of God with a ſong, and mag<g ref="char:EOLhyphen"/>nifie it with thankſgiving, Pſal.</hi> 69.30. Yea, the very <hi>inſtruments</hi> themſelves have their part in praiſing <hi>God. Therefore will I praiſe thee, and thy faithfulneſs, O God, playing upon an Inſtrument of Muſick. Unto Thee will I ſing upon the Harp, O thou holy One of Iſrael, Pſal.</hi> 71.20. This per<g ref="char:EOLhyphen"/>haps
+<pb n="30" facs="tcp:97329:16"/>may be allowed to <hi>David,</hi> to uſe the Art wherein he excelled, and may agree with the <hi>Jewiſh ſervice,</hi> but not with the <hi>Chriſtian.</hi> Nay St. <hi>Paul,</hi> in the place I named before, aſſures us,<note place="margin">Rom. 15.8.</note> That it was a promiſe made to the <hi>Fathers,</hi> that <hi>Chriſtians</hi> ſhould ſo glorifie <hi>God,</hi> by <hi>Con<g ref="char:EOLhyphen"/>feſsing to Him,</hi> and <hi>Singing to His Name,</hi> the very <hi>Singing</hi> is not omitted; and that not <hi>of Him</hi> onely, but <hi>to Him;</hi> which ſeems ſo ridi<g ref="char:EOLhyphen"/>culous to ſome, to ſing <hi>our Prayers,</hi> or any thing that is offered to <hi>God:</hi> But it did not ſo to him that knew it better; <hi>Pſal.</hi> 104.33. <hi>I will ſing unto the Lord, as long as I live; I will ſing praiſes unto my God, while I have my being.</hi> What ever others think, he was reſolved to live and die in it.</p>
+            <p>I ſhall trouble you with no more of their <hi>Objections:</hi> Theſe onely I have taken out of a greater heap, becauſe they are ſuch as con<g ref="char:EOLhyphen"/>front the <hi>Plain Doctrine,</hi> and <hi>Letter</hi> of the <hi>Text,</hi> and are the moſt <hi>popular inſinuations</hi> wherewith unwary people have been deluded</p>
+            <p>But you will ſay, though we ſee no reaſon to <hi>approve</hi> of theſe men, yet have we not reaſon to <hi>pitty</hi> them? For they are content to looſe their <hi>Livings</hi> for their <hi>Conſciences.</hi> What they looſe, I cannot ſay; but for <hi>pittying</hi> them, I
+<pb n="31" facs="tcp:97329:16"/>ſhould be apt enough, if I did not ſee ſome Gallants venture more for a young wanton Miſtreſs, than others for a chaſt and ſober wife. If they be ſo fond of their <hi>new Directory</hi> and <hi>Covenant,</hi> as young lovers are in the firſt heat of their <hi>affection,</hi> who ſay, That they had rather beg together, than part; who can help it? Yet I will hope that a little more time, and a little leſs Indulgence, which u<g ref="char:EOLhyphen"/>ſes to make the one, will make the other wi<g ref="char:EOLhyphen"/>ſer too.</p>
+            <p>And ſo I leave them, and come to <hi>Our ſelves,</hi> whoſe Judgments have not been ſo far corrupted as to be enemies to the <hi>Liturgy;</hi> yet, I know not how, ſomething hath ſo poiſoned our Affections, that we are not ſo good friends to it as might be wiſhed. We care but little to come to it, and have as little reſpect when we are at it; we ſit it out, or talk it out, ſo as nothing ſeems to be more impertinent, and wherein we are leſſe concerned, then in this Service. Why will you go to Church? ſay they; there's nothing but Prayers. That is in words at length. There's nothing but praiſing and honouring God.</p>
+            <p>It is not poſſible, that any could be thus bold with their Creator, if they did not de<g ref="char:EOLhyphen"/>ceive
+<pb n="32" facs="tcp:97329:17"/>themſelves with a perſwaſion that a full amends may be made him another way. That obedience to Gods Commands, a ver<g ref="char:EOLhyphen"/>tuous and godly life is the beſt Sacrifice <hi>He that keepeth the Law,</hi>
+               <note place="margin">Eccluſ. 35.1.</note> ſaith the Son of <hi>Sirach, bringeth Offerings enough.</hi>
+               <note place="margin">Pſal. 4.5.</note> And <hi>David,</hi> an Au<g ref="char:EOLhyphen"/>thor of more credit, tells us of a <hi>Sacrifice of Righteouſneſſe.</hi> And the <hi>Apoſtle</hi> in this chap<g ref="char:EOLhyphen"/>ter, <hi>To do good and to communicate forget not,<note place="margin">Verſ. 16.</note> for with ſuch ſacrifices God is well pleaſed.</hi> Theſe are, and every other act of Vertue, may be a <hi>Sacrifice,</hi> and God honoured by them: But yet not ſuch as will ſerve to ſatisfie the Duty of the Text. The Sacrifice of obedience is <hi>Metapho<g ref="char:EOLhyphen"/>rical, i. e. God</hi> accepts it as well as if it had been a Sacrifice, that is, ſomething given to himſelf. But the Sacrifice of praiſe is <hi>proper</hi> without a Metaphor. The original word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, I confeſs, imports ſomething to be de<g ref="char:EOLhyphen"/>ſtroyed, but that is meer accidental to the no<g ref="char:EOLhyphen"/>tion of Sacrifice. It doth diſtinguiſh the kinde, but not conſtitute the nature of it, which is accompliſhed by offering ſomething to God in acknowledgment of him. And for this uſe, <hi>the fruit of our lips</hi> is as proper, as the fruit of our flocks, or of our fields, ever were.</p>
+            <p>
+               <pb n="33" facs="tcp:97329:17"/>So likewiſe the honor which God receives from our <hi>obedience,</hi> differs from that of Sa<g ref="char:EOLhyphen"/>crifice; for <hi>that</hi> is onely of conſequence, and by argumentation, <hi>i. e.</hi> It ſuits with the <hi>na<g ref="char:EOLhyphen"/>ture</hi> and <hi>will</hi> of God; as we ſay, Good ſer<g ref="char:EOLhyphen"/>vants are an honor to their Maſters, by re<g ref="char:EOLhyphen"/>flection: But the honor by Sacrifice is of di<g ref="char:EOLhyphen"/>rect and ſpecial intendment, it hath no other uſe, and is a diſtinct vertue from all other acts of <hi>obedience,</hi> and of a different obli<g ref="char:EOLhyphen"/>gation.</p>
+            <p>I ſhould not trouble you with theſe nice diſtinctions, if they did not carry with them matter of important conſequence; leaſt a <hi>neceſſary ſervice</hi> ſhould be ſhuffled up, and quite loſt in the croud of other duties. For, though God hath the <hi>honor of obedience</hi> and a <hi>vertuous life,</hi> if we deny him the honor of a Sacrifice beſides, we rob him of his due; and a greater Sacrilege we cannot commit: For that which goes upon the <hi>common account</hi> of Sacrilege, robs God onely of things dedi<g ref="char:EOLhyphen"/>cated for <hi>his ſervice;</hi> (and yet that crime hath fired the neſts of thoſe, that took <hi>Coals from the Altar,</hi> to warm their own <hi>harths</hi>) but this is
+<pb n="34" facs="tcp:97329:18"/>the robbing God of the Service it ſelf, to which the other is but an <hi>acceſſory.</hi>
+            </p>
+            <p>It is a fallacie, and piece of practick ſophi<g ref="char:EOLhyphen"/>ſtry that cozens the world, for men to think themſelves diſcharged of one duty by the zeal they bear to another; as if God were not rob'd ſo long as we leave him any thing.</p>
+            <p>Now, as it is well worth our care, that <hi>this</hi> Service be not loſt in the crowd of other duties, ſo will it be much more, that it be not loſt in worſe company, in a throng of Vices. And loſt it will be, when the vertue of it is gone.<note place="margin">Pſal. 107.34.</note> 
+               <hi>A fruitful land is made barren by the ſins of them that dwell therein.</hi> The ſame cauſe will make our Prayers as fruitleſs as our fields. To honour God with our <hi>lips,</hi> and diſhonour him with our <hi>lives;</hi> to be ſtrict at Prayers, and loofe to all diſorders; The <hi>Presbyterian</hi> pretenſions cannot make our <hi>Sacrifice</hi> ſo abo<g ref="char:EOLhyphen"/>minable as our ſins can: They make God complain of that which he himſelf command<g ref="char:EOLhyphen"/>ed, Iſai. 1.11. <hi>To what purpoſe is the multitude of your Sacrifices unto me, ſaith the Lord; I am full with the burnt offerings of Rams, and the fat of fed Beaſts.</hi> And again, <hi>Bring no more vain Oblati<g ref="char:EOLhyphen"/>ons;
+<pb n="35" facs="tcp:97329:18"/>Incenſe is an abomination unto me:</hi> So it was with the Jewes Sacrifice; and the Chriſtians will fare no better, ver. 15. <hi>When ye ſpred forth your hands I will hide mine eyes from you: yea, and when ye make many Prayers I will not hear:</hi> Whence grows the diſpleaſure that God takes againſt his owne Service, but from this? <hi>Your hands are full of blood.</hi> He will accept no <hi>Sacrifice</hi> from polluted hands. And therefore, to reconcile him to his own Service, he puts us into this courſe, verſ. 16. <hi>Waſh ye, make ye clean, put away the evil of your doings from before mine eyes, ceaſe to do evil, learn to do well, ſeek Judgement, relieve the oppreſſed, plead for the widow.</hi>
+            </p>
+            <p>If we come thus minded and prepared to Gods Altar, and offer the Sacrifice of Praiſe to the honour of his Name, we may with confidence expect, what God in the ſame caſe promiſed, 1 Sam. 2.30. <hi>Them that honour me, I will honour.</hi>
+            </p>
+            <p>To conclude. All that I have ſaid hitherto is only to vindicate <hi>Gods Service</hi> from contempt, and to reſtore it to ſome of the reſpect due to it. And this, though the <hi>froward times</hi> did not need, cannot I hope be thought an ill office
+<pb n="36" facs="tcp:97329:19" rendition="simple:additions"/>for a <hi>Sermon,</hi> once to be an Advocate for <hi>Prayers,</hi> ſeeing Prayers will alwayes do as much for the Sermon, be an Advocate to God to bring down a bleſſing upon it. As the Church teacheth us to do, ſo let us pray, <hi>That the words which we have heard with our outward ears may, &amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>PAge 19. Line 26. <hi>for</hi> Faith and Religion, <hi>read</hi> Faith and Worſhip, Page 25. Line 24. <hi>for</hi> portion, <hi>read</hi> proportion.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
